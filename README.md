@@ -1,5 +1,9 @@
 # `ntkrnl64`
+<!--
+on 2026/04, github strangely tried to fix pictures in a max-width box which stretches the pictures. this is NOT good for this image since its large. so i removed it.
 <img width="3840" height="2160" alt="krnl." src="https://github.com/user-attachments/assets/dc745d91-2275-4205-837d-cf81702dc99d" />
+-->
+Hey there :)
 
 ## stats
 [![NtKrnl64's GitHub stats](https://github-readme-stats.krnl32.win/api?username=ntkrnl64&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://https://github.com/anuraghazra/github-readme-stats)
