@@ -1,6 +1,6 @@
 # `ntkrnl64`
 <!--
-on 2026/04, github strangely tried to fix pictures in a max-width box which stretches the pictures. this is NOT good for this image since its large. so i removed it.
+on 2026/04, github strangely tried to fit pictures in a max-width box which stretches the pictures. this is NOT good for this image since its large. so i removed it.
 <img width="3840" height="2160" alt="krnl." src="https://github.com/user-attachments/assets/dc745d91-2275-4205-837d-cf81702dc99d" />
 -->
 Hey there :)
