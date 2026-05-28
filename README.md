@@ -22,4 +22,6 @@ Hey there :)
 
   3. `109082927`  
      [View on Pixiv](https://www.pixiv.net/en/artworks/109082927)
+
+  4. `ev006al.png` from [GINKA](https://store.steampowered.com/app/2536840/GINKA/)
 </details>
