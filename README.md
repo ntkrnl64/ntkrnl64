@@ -10,6 +10,10 @@ Hey there :)
 
 [![Top Langs](https://github-readme-stats.krnl32.win/api/top-langs/?username=ntkrnl64&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+## sponsorship
+
+[afdian](https://afdian.com/a/krnl64)
+
 ## misc
 <details>
   <summary>pfp history</summary>
